@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "494730795164",
+    "project_id": "traclateapp",
+    "storage_bucket": "traclateapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494730795164:android:0648fdf608250792d7f559",
+        "android_client_info": {
+          "package_name": "com.welcomescreen.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFZXk1FCzWS_DeI5j4IcFFUxk8-SJkQcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
